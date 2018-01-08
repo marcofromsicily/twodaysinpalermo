@@ -1,0 +1,10 @@
+header.masthead {
+  background-image: url("../img/pretoria.jpg");
+  max-width: 100%;
+  height: auto;
+}
+
+header.masthead>.overlay {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.4);
+}

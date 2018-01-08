@@ -1,0 +1,15 @@
+header.masthead {
+  background-image: url("../img/martorana.jpg");
+  max-width: 100%;
+  height: auto;
+}
+
+header.masthead>.overlay {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.about {
+  background-color: rgb(104,210,255);
+  -webkit-text-fill-color: white;
+}
